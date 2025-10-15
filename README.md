@@ -1,8 +1,8 @@
 ## Raspberry Pi Pico W Bluetooth Classic SPP example
 
 [<img src="https://img.shields.io/github/issues/MrGreensWorkshop/RasPiPicoSDK_BT_Classic_SPP" alt="GitHub issues" data-no-image-viewer>](https://github.com/MrGreensWorkshop/RasPiPicoSDK_BT_Classic_SPP/issues)
-[<img src="https://img.shields.io/github/forks/MrGreensWorkshop/RasPiPicoSDK_BT_Classic_SPP" alt="GitHub forks" data-no-image-viewer>](https://github.com/MrGreensWorkshop/RasPiPicoSDK_BT_Classic_SPP/blob/main/README.md#readme)
-[<img src="https://img.shields.io/github/stars/MrGreensWorkshop/RasPiPicoSDK_BT_Classic_SPP" alt="GitHub stars" data-no-image-viewer>](https://github.com/MrGreensWorkshop/RasPiPicoSDK_BT_Classic_SPP/blob/main/README.md#readme)
+[<img src="https://img.shields.io/github/forks/MrGreensWorkshop/RasPiPicoSDK_BT_Classic_SPP?style=flat" alt="GitHub forks" data-no-image-viewer>](https://github.com/MrGreensWorkshop/RasPiPicoSDK_BT_Classic_SPP/blob/main/README.md#readme)
+[<img src="https://img.shields.io/github/stars/MrGreensWorkshop/RasPiPicoSDK_BT_Classic_SPP?style=flat" alt="GitHub stars" data-no-image-viewer>](https://github.com/MrGreensWorkshop/RasPiPicoSDK_BT_Classic_SPP/blob/main/README.md#readme)
 [<img src="https://img.shields.io/github/license/MrGreensWorkshop/RasPiPicoSDK_BT_Classic_SPP" alt="GitHub license" data-no-image-viewer>](https://github.com/MrGreensWorkshop/RasPiPicoSDK_BT_Classic_SPP/blob/main/LICENSE.txt)
 [<img src="https://shields.io/badge/Github%20Sponsors-Support%20me-blue?logo=GitHub+Sponsors" alt="Support me on GitHub Sponsors" data-no-image-viewer>](https://github.com/sponsors/MrGreensWorkshop "Support me on GitHub Sponsors")
 [<img src="https://shields.io/badge/Patreon-Support%20me-blue?logo=Patreon" alt="Support me on Patreon" data-no-image-viewer>](https://patreon.com/MrGreensWorkshop "Support me on Patreon")
